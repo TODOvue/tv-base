@@ -8,6 +8,7 @@
   "type": "module",
   "homepage": "https://ui.todovue.blog/CHANGE",
   "repository": {
+    "name": "@todovue/tv-CHANGE",
     "type": "git",
     "url": "git+https://github.com/TODOvue/tv-CHANGE.git"
   },
